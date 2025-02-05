@@ -1,0 +1,6 @@
+assinment instructifon
+1.create a file?
+2. write your full name
+3. write your id
+4.quesion will be:
+	how many letters are in your name?
